@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.io/ro6ley/django-redis.svg)](http://hits.dwyl.io/ro6ley/django-redis)
 
-# FlaskDrive 
+# Django_Redis
 
 This repository contains the code for this [blogpost]().
 
