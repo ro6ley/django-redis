@@ -2,7 +2,7 @@
 
 # Django_Redis
 
-This repository contains the code for this [blogpost]().
+This repository contains the code for this [blogpost](https://stackabuse.com/working-with-redis-in-python-with-django/).
 
 ## Getting Started
 
